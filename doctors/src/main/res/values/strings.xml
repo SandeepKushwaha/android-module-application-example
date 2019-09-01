@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Doctors</string>
+    <string name="enter_doctor_name">Enter Doctor Name</string>
 </resources>
